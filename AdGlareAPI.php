@@ -3,7 +3,7 @@
 /*******
  * File:         AdGlareAPI.php
  * Version:      2.10
- * Last Update:  2018-07-23
+ * Last Update:  2018-07-24
  * API Version:  v2
  * Written by:   adglare.com
  ******/
